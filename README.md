@@ -4,6 +4,13 @@
 > [!TIP]
 > 此分支为早期验证性实验，IDEA来自于参考项目：[ESPARGOS](https://espargos.net/)，基于其方案搭建了完整硬件平台与数据获取框架、应用实例。
 
+## 目录
+- [硬件](#硬件)
+
+
+## 硬件
+
+
 <tr>
   <img src="meterials/G1.gif" width="80%"></td>
 </tr>
