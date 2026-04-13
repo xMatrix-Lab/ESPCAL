@@ -1,0 +1,21 @@
+dependencies:
+  cmake_utilities: 0.*
+  idf: '>=4.4.1'
+description: This package provides algorithmic functionality for ESP-CSI human movement
+  and presence detection for easy integration into products.
+files:
+  exclude:
+  - src/**/*
+  - '**/build*/**/*'
+  - dist/**/*
+issues: https://github.com/espressif/esp-csi/issues
+targets:
+- esp32
+- esp32s3
+- esp32s2
+- esp32c3
+- esp32c5
+- esp32c6
+- esp32c61
+url: https://github.com/espressif/esp-csi/tree/master/esp-radar
+version: 0.1.5

@@ -1,0 +1,12 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=e:\espidf_tools\python_env\idf5.5_py3.11_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=1 H:\MyDocument\project\ESP32\esp32s3\CSI_SLAVE
+-- Minimal build - ON
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s3
+NOTICE: Dependencies lock doesn't exist, solving dependencies.
+........NOTICE: Updating lock file at H:\MyDocument\project\ESP32\esp32s3\CSI_SLAVE\dependencies.lock
+NOTICE: Processing 5 dependencies:
+NOTICE: [1/5] espressif/cmake_utilities (0.5.3)
+NOTICE: [2/5] espressif/esp-radar (0.3.2)
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+dependencies:
+  idf: '>=4.4.1'
+
+  esp_csi_gain_ctrl:
+    version: '>=0.1.0'
+    override_path: ../../

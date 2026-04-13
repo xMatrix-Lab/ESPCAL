@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader-complete.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

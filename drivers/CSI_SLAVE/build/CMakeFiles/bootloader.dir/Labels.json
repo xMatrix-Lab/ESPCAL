@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "H:/MyDocument/project/ESP32/esp32s3/CSI_SLAVE/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

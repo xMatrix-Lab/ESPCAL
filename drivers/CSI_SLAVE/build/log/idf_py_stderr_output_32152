@@ -1,0 +1,13 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=e:\espidf_tools\python_env\idf5.5_py3.11_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=1 H:\MyDocument\project\ESP32\esp32s3\CSI_SLAVE
+CMake Error at E:/Espressif/v5.5.1/esp-idf/tools/cmake/build.cmake:629 (message):
+  ERROR: File .component_hash or CHECKSUMS.json for component
+  "espressif/esp-radar" in the managed components directory does not exist or
+  cannot be parsed.  These files are used by the component manager for
+  component integrity checks.  If they exist in the component source, please
+  ask the component maintainer to remove them.
+
+Call Stack (most recent call first):
+  E:/Espressif/v5.5.1/esp-idf/tools/cmake/project.cmake:740 (idf_build_process)
+  CMakeLists.txt:8 (project)
+
+

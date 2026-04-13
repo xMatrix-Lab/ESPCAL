@@ -1,0 +1,21 @@
+dependencies:
+  espressif/ch390:
+    component_hash: 5a23cac6e023067251943f7222fe94585a34579181a79a949b634946e2e6b981
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=5.1'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.3.0
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- espressif/ch390
+- idf
+manifest_hash: 1dbc072ed0194049da12adf8f1c065e4695c5bb86ba195d8d62533c95e6364e4
+target: esp32s3
+version: 2.0.0

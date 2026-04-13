@@ -1,0 +1,95 @@
+dependencies:
+  espressif/cmake_utilities:
+    component_hash: 351350613ceafba240b761b4ea991e0f231ac7a9f59a9ee901f751bddc0bb18f
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.1'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    version: 0.5.3
+  espressif/esp-radar:
+    component_hash: cfa0f44b0223777da6079edb2062fa1a865836fadefc27885a9bb6a0f3c3c3fe
+    dependencies:
+    - name: espressif/cmake_utilities
+      registry_url: https://components.espressif.com
+      require: private
+      version: 0.*
+    - name: espressif/esp_csi_gain_ctrl
+      registry_url: https://components.espressif.com
+      require: private
+      version: '>=0.1.3'
+    - name: espressif/esp_radar_motion_dec
+      registry_url: https://components.espressif.com
+      require: private
+      version: '>=0.1.0'
+    - name: idf
+      require: private
+      version: '>=5.4'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    targets:
+    - esp32
+    - esp32s3
+    - esp32s2
+    - esp32c3
+    - esp32c5
+    - esp32c6
+    - esp32c61
+    version: 0.3.2
+  espressif/esp_csi_gain_ctrl:
+    component_hash: 2700b6625343916dfb721af42131857b3e387dbbb9cc1df569128525c8b05f8e
+    dependencies:
+    - name: espressif/cmake_utilities
+      registry_url: https://components.espressif.com
+      require: private
+      version: 0.*
+    - name: idf
+      require: private
+      version: '>=4.4.1'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    targets:
+    - esp32
+    - esp32s3
+    - esp32s2
+    - esp32c3
+    - esp32c5
+    - esp32c6
+    - esp32c61
+    version: 0.1.5
+  espressif/esp_radar_motion_dec:
+    component_hash: 2d927c25cd2332d8a7c2ab115930430c459d76f3d7ec5f14ebede901a1c0612f
+    dependencies:
+    - name: espressif/cmake_utilities
+      registry_url: https://components.espressif.com
+      require: private
+      version: 0.*
+    - name: idf
+      require: private
+      version: '>=4.4.1'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    targets:
+    - esp32
+    - esp32s3
+    - esp32s2
+    - esp32c3
+    - esp32c5
+    - esp32c6
+    - esp32c61
+    version: 0.1.0
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- espressif/esp-radar
+- idf
+manifest_hash: 3f350b8c95f6de398319914c354e0bc9b33892959469356fdf4b74ca71a46a7a
+target: esp32s3
+version: 2.0.0

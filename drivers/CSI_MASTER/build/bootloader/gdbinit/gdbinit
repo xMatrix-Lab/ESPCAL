@@ -1,0 +1,2 @@
+source H:/MyDocument/project/esp32s3/CSI_MASTER/build/bootloader/gdbinit/symbols
+source H:/MyDocument/project/esp32s3/CSI_MASTER/build/bootloader/gdbinit/connect
