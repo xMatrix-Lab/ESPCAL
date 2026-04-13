@@ -9,6 +9,8 @@
 
 
 ## 硬件
+此项目硬件使用嘉立创EDA设计绘制，并在立创开源广场进行完全开源：[硬件开源](https://oshwhub.com/greentor/project_ytsbudsf/)
+
 
 
 <tr>
