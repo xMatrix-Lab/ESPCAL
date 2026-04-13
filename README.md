@@ -5,15 +5,19 @@
 > 此分支为早期验证性实验，IDEA来自于参考项目：[ESPARGOS](https://espargos.net/)，基于其方案搭建了完整硬件平台与数据获取框架、应用实例。
 
 ## 目录
+- [展示](#展示)
 - [硬件](#硬件)
+- [软件](#软件)
+- [环境](#环境)
+- [快速开始](#快速开始)
 
 ## 展示
 <img width="450" height="1000" alt="IMG_20260312_144305" src="https://github.com/user-attachments/assets/3ab25cad-7ec4-47e6-ac26-f5823efc4670" />
 <img width="1000" height="450" alt="IMG_20260413_145527" src="https://github.com/user-attachments/assets/3f7fd167-e252-4eb2-9859-9d4b2efa1a1a" />
 <img width="1000" height="450" alt="IMG_20260413_145511" src="https://github.com/user-attachments/assets/737251ab-a97b-459e-9c68-8310bc27b36a" />
 <img src="meterials/G1.gif" width="80%">
-
-
+<img src="meterials/G2.gif" width="80%">
+<img src="meterials/G3.gif" width="80%">
 
 
 ## 硬件
