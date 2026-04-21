@@ -1,6 +1,20 @@
 # ESPCAL : ESP32 Collaborative Antenna Localization
 # [[ENGLISH]](./README_EN.md)
 **基于ESP32的WiFi CSI感知平台，实现信道状态信息采集、相位校准、阵列信号处理与角度估计，为室内定位、无线感知等研究提供轻量级开源验证平台。**
+
+</div>
+
+---
+
+## 🌟 欢迎关注我们的研究工作
+1. **WiCAL: Accurate Wi-Fi-based 3D localization enabled by collaborative antenna arrays**
+Fuhai Wang, Zhe Li, Rujing Xiong, Tiebin Mi, Robert Caiming Qiu
+*IEEE Journal on Selected Areas in Communications (JSAC)*, 2025, Vol.43, No.11, pp.3752-3765
+
+</div>
+
+---
+
 > [!TIP]
 > 此分支为早期验证性实验，搭建了完整硬件平台与数据获取框架、应用实例。
 
